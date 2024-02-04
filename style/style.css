@@ -1,0 +1,53 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+nav {
+    background: #86A7FC;
+}
+nav ul {
+    display: flex;
+}
+nav li{
+    color: white;
+    display: inline;
+    list-style-type: none;
+}
+nav a{
+    text-decoration: none;
+
+}
+
+nav li a {
+    color: white;
+}
+
+nav li a:hover {
+    background: #FFDD95;
+    color: white;
+    font-weight: bold;
+}
+
+
+.jumbotron {
+    padding-top: 90px;
+    background-color: #FFDD95;
+}
+.jumbotron p {
+    padding: 1rem;
+}
+
+#projects {
+    background-color: #FFDD95;
+}
+
+section {
+    padding-top: 10px;
+}
+
+
+footer {
+    background: #86A7FC;
+}
+
